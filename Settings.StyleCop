@@ -1,0 +1,10 @@
+<StyleCopSettings Version="105">
+  <GlobalSettings>
+    <BooleanProperty Name="ViolationsAsErrors">True</BooleanProperty>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>ms-excel</Value>
+    </CollectionProperty>
+  </GlobalSettings>
+  <Analyzers>
+  </Analyzers>
+</StyleCopSettings>
